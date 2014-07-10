@@ -17,8 +17,10 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         
-        // usar la multiplicacion
+     
         System.out.println("hola mundo, ahora en Git");
+        
+        System.out.println("Adios");
         
        
     }
